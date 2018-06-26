@@ -1,0 +1,21 @@
+{
+  "name": "@hoverbaum/tools-and-services",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A list of tools and services related to software development that i have found useful.",
+  "scripts": {
+    "start": "docsify serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoverBaum/Tools-and-Services.git"
+  },
+  "author": "Hendrik Wallbaum <mail@hendrikwallbaum.de>",
+  "bugs": {
+    "url": "https://github.com/HoverBaum/Tools-and-Services/issues"
+  },
+  "homepage": "https://github.com/HoverBaum/Tools-and-Services#readme",
+  "dependencies": {
+    "docsify-cli": "^4.2.1"
+  }
+}
