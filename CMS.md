@@ -58,4 +58,4 @@ A tool for some jobs but not for all. Personally, like many developers, I do not
 - craftCMS
 - Scrivito
 
-<small>Last updated: 26.06.2018</small>
+<small>Last updated: 06.2018</small>
