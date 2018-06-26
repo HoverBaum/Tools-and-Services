@@ -17,3 +17,9 @@ I will be super happy if this is of use to you.
 This website is the result of a GitHub Repository containing Markdown files.
 
 Obviously presented in a nice format using [docsify](https://docsify.js.org/#/).
+
+## Contribute
+
+Please feel free to open issues about anything I don't know about.
+
+You can also drop me a line on [twitter/@hoverbaum](https://twitter.com/HoverBaum).
