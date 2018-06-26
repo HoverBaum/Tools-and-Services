@@ -2,7 +2,7 @@
 
 A list of tools and services related to web development that i have found useful or just wanted to remember for later.
 
-<small>Should you be reading this on GitHub please visit https://webdev-notes.netlify.com/#/ for an improved reading experience</small>
+<small>Should you be reading this on GitHub please visit the [Webdev Notes website](https://webdev-notes.netlify.com/#/) for an improved reading experience</small>
 
 ## Why???
 
