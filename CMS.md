@@ -57,5 +57,3 @@ A tool for some jobs but not for all. Personally, like many developers, I do not
 - October CMS
 - craftCMS
 - Scrivito
-
-<small>Last updated: 06.2018</small>
