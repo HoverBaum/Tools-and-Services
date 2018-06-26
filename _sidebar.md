@@ -1,4 +1,5 @@
 * [Home](/)
-* [Pipelines](pipelines.md)
+* [Applications](applications.md)
 * [CMS Solutions](CMS.md)
+* [Pipelines](pipelines.md)
 * [Reads](reads.md)
