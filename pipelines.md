@@ -10,9 +10,13 @@ And most of these tools are really just glorified Gulp style task runners in the
 
 ## Circle CI
 
-## [Drone](https://drone.io/)
+## Drone IO
 
-## [GoCD](https://www.gocd.org/)
+[Drone](https://drone.io/)
+
+## GoCD
+
+[GoCD](https://www.gocd.org/)
 
 The notion that one should have multiple pipelines behind one another to really visualize workflows.
 
