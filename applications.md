@@ -2,6 +2,16 @@
 
 What would a developer be without his applications that help them to navigate daily tasks easily.
 
+## Git
+
+Git is a great tool for version controle. It was developed to help the Linux Kernel team speed up merges and has since been widely adopted.
+
+Here is a great way to display logs for git. Simply paste this into your terminal and use `git ls` after that.
+
+```bash
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+```
+
 ## Visual Studio Code
 
 [Visual Studio Code](https://code.visualstudio.com/) is Microsofts Code Editor. And it is marvelous!
