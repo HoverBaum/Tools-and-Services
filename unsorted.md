@@ -14,7 +14,7 @@ Also not:
 
 https://picsum.photos/
 
-![Picsum https://picsum.photos/420/320(https://picsum.photos/420/320)
+![Picsum https://picsum.photos/420/320](https://picsum.photos/420/320)
 
 https://imgplaceholder.com/
 
