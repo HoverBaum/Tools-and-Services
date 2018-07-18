@@ -45,3 +45,9 @@ Companion for "The Phoenix Project".
 ### Lean startup
 
 <small>(not read yet)</small>
+
+## On the web
+
+### 12 Factor Application
+
+https://12factor.net/ is a beautiful overview of how you can structure an application for the modern cloud based architecture.
