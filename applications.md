@@ -35,3 +35,7 @@ Also has great integration with Adobe products.
 ## BlankUp
 
 [BlankUp](https://hoverbaum.github.io/BlankUp-Electron/) is my self written Markdown editor utilizing Electron to bring you a cross platform editing experience. Sadly Mark Text is probably better for general Markdown editing.
+
+## Mermaid
+
+[MermaidJS](https://mermaidjs.github.io/) is an awesome tool to code graphs for your documentation.
