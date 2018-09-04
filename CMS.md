@@ -21,6 +21,7 @@ A tool for some jobs but not for all. Personally, like many developers, I do not
 
 ## Headless solutions long list
 
+- Grav
 - PimCore
 - eZ Platform
 - Neos
