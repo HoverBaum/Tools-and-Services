@@ -18,7 +18,7 @@ I will be super happy if this is of use to you.
 
 This website is the result of a GitHub Repository containing Markdown files.
 
-Obviously presented in a nice format using [docsify](https://docsify.js.org/#/).
+Obviously presented in a nice format using [docsify](https://docsify.js.org/#/) which is integrated on the website or can be used from the commandline locally.
 
 ## Contribute
 
