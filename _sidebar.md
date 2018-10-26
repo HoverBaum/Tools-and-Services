@@ -2,6 +2,7 @@
 * [Applications](applications.md)
 * [CMS Solutions](CMS.md)
 * [Tracking / Logging](trackingAndLogging.md)
+* [Styling](styling.md)
 * Frameworks
   * [Angular](angular.md)
 * [Pipelines](pipelines.md)
