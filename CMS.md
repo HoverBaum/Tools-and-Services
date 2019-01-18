@@ -19,6 +19,10 @@ A tool for some jobs but not for all. Personally, like many developers, I do not
 - PHP based
 - Headless capabilities
 
+## Sanity
+
+Looks like a great tool that I sadly haven't tried yet. [Sanity](https://www.sanity.io/)
+
 ## Headless solutions long list
 
 - Grav
@@ -58,3 +62,4 @@ A tool for some jobs but not for all. Personally, like many developers, I do not
 - October CMS
 - craftCMS
 - Scrivito
+- Sanity.io
